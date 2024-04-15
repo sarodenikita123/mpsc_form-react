@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "nikita sarode",
+      "email": "nikitasarode@gmail.com",
+      "number": "123456789",
+      "dob": "2024-04-17",
+      "address": "karanja(lad)",
+      "graduate": "Graduate",
+      "id": 1
+    }
+  ]
+}
